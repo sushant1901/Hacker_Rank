@@ -1,10 +1,7 @@
-package com.company;
+/*package com.company;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-/*
- * Create the Student and Priorities classes here.
- */
 
 import java.util.PriorityQueue;
 
@@ -88,8 +85,11 @@ public class Solution {
         if (students.isEmpty()) {
             System.out.println("EMPTY");
         } else {
-            for (Student1 st: students) {
+            for (Student1 st : students) {
                 System.out.println(st.getName());
             }
         }
     }
+}
+
+ */
